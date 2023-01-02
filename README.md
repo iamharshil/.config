@@ -32,7 +32,8 @@ settings.json
   ],
   "[jsonc]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
-  }
+  },
+  "editor.fontFamily": "'Droid Sans Mono', 'monospace', monospace"
 }
 ```
 
