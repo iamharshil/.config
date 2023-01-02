@@ -87,7 +87,7 @@ Enabled:
 - Vim
 - vscode-icons
 
-Disabled
+Disabled:
 
 - 50 Shades of Purple
 - Azure Shades
